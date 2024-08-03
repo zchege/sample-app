@@ -33,6 +33,6 @@
 
    <h1> Thank You </h1>
    <br>
-   <h1> Zacharia Chege @ 2024 </h1>
+   <h1> @2024 </h1>
    
 </form>
